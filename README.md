@@ -1,12 +1,11 @@
 # My Custom Extension
 
-Add description ...
+In order to install the connector go to the directory where pom.xml is placed.
+Run the following command
 
-
-...
-
-
-...
+```
+mvn install
+```
 
 
 Add this dependency to your application pom.xml
